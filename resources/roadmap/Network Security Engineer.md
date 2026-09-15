@@ -189,7 +189,8 @@
 
 - Файловая система POSIX: chmod (символьный и восьмеричный), chown, chgrp, umask, sticky bit, setuid, setgid
 - ACL: setfacl, getfacl, расширенные атрибуты (xattr)
-- Процессы: ps, top, htop, pidof, pgrep. Состояния: Running, Sleeping (Interruptible/Uninterruptible), Stopped, Zombie
+- Процессы: ps, top, htop, pidof, pgrep. 
+- Состояния: Running, Sleeping (Interruptible/Uninterruptible), Stopped, Zombie
 - Сигналы: SIGTERM, SIGKILL, SIGHUP, SIGINT, SIGUSR. kill, killall, pkill
 - nice и renice: приоритеты -20 (высший) до +19 (низший)
 - Фоновые задачи: bg, fg, jobs, nohup, disown, screen, tmux
