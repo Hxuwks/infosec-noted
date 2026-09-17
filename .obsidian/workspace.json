@@ -39,16 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/3 semester/virt/Основы виртуализации.md",
-                "mode": "source",
+                "file": "notes/3 semester/network/MTU.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основы виртуализации"
+              "title": "MTU"
             }
           },
           {
-            "id": "24dfde1b90342b31",
+            "id": "afbfa203b5c182d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,6 +59,20 @@
               },
               "icon": "lucide-file",
               "title": "Network Security Engineer"
+            }
+          },
+          {
+            "id": "24dfde1b90342b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/3 semester/virt/Основы виртуализации.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основы виртуализации"
             }
           }
         ],
@@ -229,14 +243,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "24dfde1b90342b31",
+  "active": "afbfa203b5c182d8",
   "lastOpenFiles": [
-    "notes/3 semester/virt/Основы виртуализации.md",
+    "notes/3 semester/network/MTU.md",
     "resources/roadmap/Network Security Engineer.md",
     "resources/brains/Расписание на Семестр 3 (Фундамент).md",
+    "notes/3 semester/network/Философия vlan.md",
+    "notes/pre-security/linux/network utils/iptables.md",
+    "notes/3 semester/virt/Основы виртуализации.md",
+    "resources/books/3 semester/network/Олифер В. Компьютерные сети.pdf",
     "notes/3 semester/linux/Создание пользователей и управление их правами.md",
     "resources/books/3 semester/linux/TLCL-19.01.pdf",
-    "notes/3 semester/network/Философия vlan.md",
     "resources/books/3 semester/network/CiscoPress_31_Days_Before_your_CCNA_Exam_A_Day_By_Day_Review_Guide.pdf",
     "resources/books/3 semester/network/285da16a7ea910fa56b7f24651daa8c7.pdf",
     "resources/Untitled.md",
@@ -249,7 +266,6 @@
     "notes/overTheWire/solutions",
     "notes/overTheWire/flags",
     "notes/overTheWire",
-    "resources/books/3 semester/network/Олифер В. Компьютерные сети.pdf",
     "notes/pre-security/network/labs-and-articles/enterprise-network-containerlab-frr.md",
     "notes/3 semester/network/Философия построения виртуальных локальных сетей.md",
     "notes/pre-security/network/labs-and-articles/ethernet-analysis-raw-sockets.md",
